@@ -1,0 +1,125 @@
+/*
+ * Start Bootstrap - Full Width Pics (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+body {
+    margin-top: Required margin for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+.image-bg-fluid-height,
+.image-bg-fixed-height {
+    text-align: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover
+
+}
+
+.image{
+    height:300px;
+    width:300px;
+    margin-right:1100px;
+    border-radius:20%;
+    margin-top:50px;
+}
+
+l.-fluimage-bg-fluid-height {
+	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+    padding: 100px 0
+
+}
+-heighage-bg-fixed-heig
+
+.image-bg-fixed-height {
+	background: url('http://lorempixel.com/g/1920/500/') no-repeat center center scroll;
+    height: 450px;
+}
+
+.img-center {
+	margin: 0 auto;
+}
+
+section {
+    padding: 75px 0;
+}
+
+.section-heading {
+    margin: 30px 0;
+    font-size: 5em;
+    margin-top:-380px;
+    text-decoration:underline;
+    margin-left:200px;
+}
+
+.section-heading1 {
+    
+    font-size: 5em;
+    margin-top:-225px;
+    text-decoration:underline;
+    text-align:center;
+}
+
+.section-heading2 {
+    font-size: 5em;
+    margin-top: -380px;
+    text-decoration: underline;
+    margin-left: 50px;
+}
+
+.section-heading3{
+    
+    font-size: 5em;
+    margin-top:-200px;
+    text-decoration:underline;
+    text-align:center;
+}
+
+.section-heading5{
+    
+    font-size: 5em;
+    margin-top:-200px;
+    text-decoration:underline;
+    text-align:center;
+}
+
+.lead-section-lead{
+    margin-left:220px;
+    font-size:large;
+    text-align:justify;
+    
+}
+
+.procedure{
+    margin-right:220px;
+    font-size:large;
+    text-align:justify;
+    text-decoration:underline;
+}
+
+.section-lead {
+    margin: 30px 0;
+}
+
+.section-paragraph {
+    margin: 30px 0;
+    
+    font-size:medium;
+}
+
+footer {
+    margin: 50px 0;
+}
+
+@media(max-width:768px) {
+    section {
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .section-heading {
+        font-size: 2em;
+    }
+}
