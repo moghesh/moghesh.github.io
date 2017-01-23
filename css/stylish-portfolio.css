@@ -217,6 +217,12 @@ hr.small {
 
  }
 
+ .name{
+     text-align:center;
+     color:white;
+     font-style:italic;
+ }
+
  .header2{
 
     display: table;
@@ -311,6 +317,15 @@ hr.small {
     margin-left:200px;
    
     
+}
+
+.intro{
+    margin-bottom: 20px;
+  font-size: 25px;
+  font-weight: 300;
+  line-height: 1.4;
+    text-align:justify;
+}
 }
 
 

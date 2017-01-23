@@ -77,7 +77,7 @@
 
             </a>    
             
-            <h1 class="head">Shashank Moghe</h1>
+            <h1 class="name">Shashank Moghe</h1>
             <a href="#about"></a>
         </div>
         
@@ -89,8 +89,8 @@
                 <div class="col-lg-12 text-center">
                     <img src="img/OSUlogo.png" height="200" width="200"/>
                     <h2>I am a first-year graduate student pursuing my Masters degree in Computer Science at Oregon State University.</h2>
-                    <p class="lead">Current living in United States of America, I am born and raised in India.Early on I gained an appreciation for learning and experimenting with new things. Upon graduation high school, I opted into Information Technology at Sardar Vallabhbhai Institute of Technology where I learned different coding languages which made me a passionate coder and a enthusiast website developer.I have worked as a Web Developer Intern for an year at Larsen & Toubro. After successfully completion of my under-grade course and internship, I got enrolled for Masters degree to gain expertise in the field of computer science</p>
-                    <p class="lead"></p>
+                    <p class="intro">Current living in United States of America, I am born and raised in India.Early on I gained an appreciation for learning and experimenting with new things. Upon graduation high school, I opted into Information Technology at Sardar Vallabhbhai Institute of Technology where I learned different coding languages which made me a passionate coder and a enthusiast website developer.I have worked as a Web Developer Intern for an year at Larsen & Toubro. After successfully completion of my under-grade course and internship, I got enrolled for Masters degree to gain expertise in the field of computer science.</p>
+                    
                 </div>
             </div>
             <!-- /.row -->
