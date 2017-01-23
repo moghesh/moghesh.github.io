@@ -231,6 +231,12 @@ hr.small {
 
  }
 
+ .menu-radius{
+     border-radius:15%;
+     height:50px;
+
+ }
+
  .h15{
      margin-right:800px;
      margin-top:60px;

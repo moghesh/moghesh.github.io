@@ -37,8 +37,8 @@
         </div>
         
     <!-- Navigation -->
-    <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars">
-    </i></a>
+    <a id="menu-toggle" href="#" class="btn ">
+    <img src="img/home.png" class="menu-radius"  ></a>
     <nav id="sidebar-wrapper">
         <ul class="sidebar-nav">
             <a id="menu-close" href="#" class="btn btn-light btn-lg pull-right toggle">
@@ -78,7 +78,7 @@
             </a>    
             
             <h1 class="head">Shashank Moghe</h1>
-            <a href="#about"><i class="fa fa-2x fa-angle-double-down fa-stack-1x"></i></a>
+            <a href="#about"></a>
         </div>
         
     </header>
