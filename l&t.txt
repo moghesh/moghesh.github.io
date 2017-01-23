@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<head runat="server">
-    <asp:ContentPlaceHolder id="head" runat="server">
+
+
+<asp:ContentPlaceHolder id="head" runat="server">
     </asp:ContentPlaceHolder>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -37,9 +38,6 @@
     <!-- Navigation -->
     
 
-    <!-- Full Width Image Header with Logo -->
-    <!-- Image backgrounds are set within the full-width-pics.css file. -->
-    
     <header class="image-bg-fluid-height">
         <img class="image" src="img/lt.png" alt="" height="500">
     
