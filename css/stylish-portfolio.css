@@ -217,6 +217,10 @@ hr.small {
 
  }
 
+ .info{
+       margin-left:60px;  
+ }
+
  .name{
      text-align:center;
      color:white;
