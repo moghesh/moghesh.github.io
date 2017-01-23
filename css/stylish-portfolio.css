@@ -204,7 +204,7 @@ hr.small {
    
 }  
 
- .header1{
+.header1{
 
     display: table;
     position: relative;
@@ -218,7 +218,7 @@ hr.small {
  }
 
 .info{
-       margin-left:200px;  
+       margin-left:50px;  
  }
 
  .name{
