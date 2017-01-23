@@ -336,7 +336,7 @@
                         
                     </ul>
                     
-                    <p class="text-muted">Copyright &copy; 2017 | All rights reserved.| Managed by Shashank Moghe. </p>
+                    <p class="text-muted">Copyright &copy; 2016 | All rights reserved.| Managed by Shashank Moghe. </p>
                 </div>
             </div>
         </div>
