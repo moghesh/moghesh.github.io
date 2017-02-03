@@ -321,23 +321,29 @@ hr.small {
     margin-top:-880px;
     margin-left:10px;
    
-#name{
-    
-    margin-left:200px;
-   
+.name{
+    margin-left:200px;  
     
 }
 
-.intro{
+.intro {
     margin-bottom: 20px;
-  font-size: 25px;
-  font-weight: 300;
-  line-height: 1.4;
-    text-align:justify;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 1.4;
+    text-align: justify;
 }
 }
 
+.intro1{
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-weight: 300;
+    line-height: 1.4;
+    text-align: justify;
 
+
+}
 
 .header h1 
 {   
