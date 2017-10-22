@@ -11,7 +11,7 @@ body {
 
 
 .h10{
-    
+
     margin-left:500px;
     margin-top:17px;
 }
@@ -39,10 +39,7 @@ body {
     text-align: center;
     vertical-align: middle;
     color: black;
-    
-    
-    
-
+    height:100%;
 }
 
 .text-vertical-center h1 {
@@ -86,10 +83,10 @@ body {
     border-radius:35%;
     align-content:center;
     height:450px;
-    
+
     width:400px;
     top:-200px;
-    
+
 }
 
 /* Custom Horizontal Rule */
@@ -123,13 +120,13 @@ hr.small {
     margin: 0;
     padding: 0;
     list-style: none;
-    
+
 }
 
 .sidebar-nav li {
     text-indent: 20px;
     line-height: 40px;
-    
+
 }
 
 .sidebar-nav li a {
@@ -169,7 +166,7 @@ hr.small {
     position:fixed;
     top: 0;
     right: 0;
-    
+
 }
 
 #sidebar-wrapper.active {
@@ -189,20 +186,16 @@ hr.small {
 /* Header */
 
 .header
-{   
+{
     display: table;
     position: relative;
     width: 100%;
-    height: 800px;
+    height: 1000px;
     padding: 150px 0;
     background: url('../img/blurred-background-image-for-web-design.jpg') no-repeat scroll;
     background-position:center center;
     background-size:cover;
-
-    
-    
-   
-}  
+}
 
  .header1{
 
@@ -218,7 +211,7 @@ hr.small {
  }
 
  .info{
-       margin-left:380px;  
+       margin-left:380px;
  }
 
  .info1{
@@ -263,8 +256,8 @@ hr.small {
      margin-right:800px;
      margin-top:60px;
      color:darkred;
-     
-     
+
+
  }
  .h16{
      margin-left:800px;
@@ -290,26 +283,26 @@ hr.small {
  .h22{
      margin-right:800px;
      margin-top:80px;
-     
+
 
 }
 .h23{
      margin-right:800px;
      margin-top:90px;
-     
+
 
 }
 .h24{
      margin-right:800px;
      margin-top:100px;
-     
+
 
 }
 
 .h25{
     margin-top:-2080px;
     margin-left:10px;
-    
+
 }
 
 .h26{
@@ -329,10 +322,10 @@ hr.small {
 .h30{
     margin-top:-880px;
     margin-left:10px;
-   
+
 .name{
-    margin-left:200px;  
-    
+    margin-left:200px;
+
 }
 
 .intro {
@@ -354,9 +347,9 @@ hr.small {
 
 }
 
-.header h1 
-{   
-  
+.header h1
+{
+
     text-align:center;
     color: #FFFFFF;
 }
@@ -378,7 +371,7 @@ hr.small {
     padding: 100px 0;
     text-align: center;
     font-size:large;
-    height:800px;
+    height:1000px;
 }
 
 
@@ -393,14 +386,14 @@ hr.small {
     margin-bottom: 80px;
     margin-left:30px;
     white-space:nowrap;
-      
+
 }
 
 .service-item4 {
     margin-bottom: 80px;
     margin-left:15px;
     white-space:nowrap;
-      
+
 }
 
 .serviclt{
@@ -450,15 +443,15 @@ hr.small {
 
 .callout1{
 
-    
+
     margin-right:800px;
-    
-    
-    
+
+
+
 }
 
 .callout2{
-    
+
     margin-left:580px;
     margin-top:-250px;
     margin-right:150px;
@@ -466,10 +459,10 @@ hr.small {
 
 }
 
-.callout3{ 
+.callout3{
     margin-left:-650px;
     margin-top:50px;
-    
+
 
 
 }
@@ -480,7 +473,7 @@ hr.small {
     margin-top:-250px;
 }
 
-    
+
 
 
 /* Portfolio */
@@ -534,7 +527,7 @@ hr.small {
 
 /* Footer */
 .foot {
-    
+
     text-align: center;
     font-size:large;
     height:300px;
@@ -544,5 +537,5 @@ hr.small {
 
 footer {
     padding: 100px 0;
-    
+
 }
