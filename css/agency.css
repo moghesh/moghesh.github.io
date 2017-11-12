@@ -157,8 +157,8 @@ header.masthead {
 
     header.masthead .intro-text .roundedcircle{
         border-radius:40%;
-        width: 350px;
-        height: 400px !important;
+        width: 350;
+        height: 470px !important;
           }
 
     header.masthead .intro-text .intro-heading {
