@@ -155,12 +155,20 @@ header.masthead {
       margin-bottom: 25px;
       font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
+    header.masthead .intro-text .roundedcircle{
+        border-radius:40%;
+        width: 350px;
+        height: 400px !important;
+          }
+
     header.masthead .intro-text .intro-heading {
       font-size: 50px;
       font-weight: 700;
       line-height: 50px;
       margin-bottom: 25px;
       font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+
 
 @media (min-width: 768px) {
   header.masthead .intro-text {
@@ -177,7 +185,12 @@ header.masthead {
       font-weight: 700;
       line-height: 75px;
       margin-bottom: 50px;
-      font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; } }
+      font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    header.masthead .intro-text .roundedcircle{
+        border-radius:40%;
+        width: 350px;
+        height: 400px !important;
+            }}
 
 .service-heading {
   margin: 15px 0;
@@ -446,7 +459,7 @@ header.masthead {
   .team-member h5 {
       text-align:center;
       margin-top: 0;}
-  
+
 section#contact {
   background-color: #212529;
 
